@@ -43,9 +43,18 @@ and `prompt_context_harness_progression` what is done in the notebook.
 
 ## Running the Notebooks
 
-Every notebook contains buttons so that the notebook can be oppend and run on Google Colab like this:
+Every notebook can be opened and run on Google Colab directly from the links below. Just click the **Open In Colab** badge next to the notebook you want to run.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() 
+### Chapter 1 — Why Harness Engineering Matters
+| Notebook | Colab |
+|---|---|
+| Prompt & Context Harness Progression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch01/ch01_prompt_context_harness_progression.ipynb) |
+
+### Chapter 2 — The Harness as the Agent System Substrate
+| Notebook | Colab |
+|---|---|
+| Harness Components | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch02/ch02_harness_components.ipynb) |
+| State Across Execution Boundaries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch02/ch02_state_across_execution_boundaries.ipynb) |
 
 
 __NOTE:__ You may need to run the notebooks with a GPU. 
