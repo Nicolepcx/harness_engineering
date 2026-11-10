@@ -56,5 +56,22 @@ Every notebook can be opened and run on Google Colab directly from the links bel
 | Harness Components | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch02/ch02_harness_components.ipynb) |
 | State Across Execution Boundaries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch02/ch02_state_across_execution_boundaries.ipynb) |
 
+### Chapter 3 — Skills, Instructions, and Runtime Scaffolding
+| Notebook | Colab |
+|---|---|
+| Skills as a Trust Boundary | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_skills_as_a_trust_boundary.ipynb) |
+| Skills, Instructions & Runtime Scaffolding (JEV) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_skills_instructions_runtime_scaffolding_jev.ipynb) |
+| Runtime Scaffolding: Judge–Verifier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_skills_runtime_scaffolding_judge_verifier.ipynb) |
+| Evaluation with Langfuse: Skills Split, Latency & Costs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_evaluation_langfuse_skills_split_latency_costs.ipynb) |
+
+### Chapter 4 — Context-Scoped Skill Compilation
+| Notebook | Colab |
+|---|---|
+| Agent Skill Registries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch04/ch04_agent_skill_registries.ipynb) |
+| Explicit Execution State | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch04/ch04_explicit_execution_state.ipynb) |
+| Long-Running Skill State | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch04/ch04_long_running_skill_state.ipynb) |
+| Long-Running Skill State (LangGraph) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch04/ch04_long_running_skill_state_langgraph.ipynb) |
+| Skill Evolution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch04/ch04_skill_evolution.ipynb) |
+
 
 __NOTE:__ You may need to run the notebooks with a GPU. 
