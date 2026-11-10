@@ -9,8 +9,8 @@ This is the corresponding code for the book Harness Engineering: Optimization, C
 ## TOC
 - Chapter 1 Why Harness Engineering Matters
 - Chapter 2 The Harness as the Agent System Substrate
-- Chapter 3 Skills, Instructions, and Runtime Scaffolding
-- Chapter 4 Context-Scoped Skill Compilation
+- Chapter 3 Skills, Instructions, Runtime Scaffolding, and Trust Boundaries
+- Chapter 4 Long-Running Skills, Registries, and Controlled Evolution
 - Chapter 5 Agent Identity: The Durable Boundary
 - Chapter 6 The Action Surface: Tools, Sandboxes, and Capability Scoping 
 - Chapter 7 Coordination as State: Why Multi-Agents Systems Fail at the Handoff Layer
