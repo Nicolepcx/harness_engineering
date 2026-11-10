@@ -56,7 +56,7 @@ Every notebook can be opened and run on Google Colab directly from the links bel
 | Harness Components | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch02/ch02_harness_components.ipynb) |
 | State Across Execution Boundaries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch02/ch02_state_across_execution_boundaries.ipynb) |
 
-### Chapter 3 — Skills, Instructions, and Runtime Scaffolding
+### Chapter 3 — Skills, Instructions, Runtime Scaffolding, and Trust Boundaries
 | Notebook | Colab |
 |---|---|
 | Skills as a Trust Boundary | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_skills_as_a_trust_boundary.ipynb) |
@@ -64,7 +64,7 @@ Every notebook can be opened and run on Google Colab directly from the links bel
 | Runtime Scaffolding: Judge–Verifier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_skills_runtime_scaffolding_judge_verifier.ipynb) |
 | Evaluation with Langfuse: Skills Split, Latency & Costs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch03/ch03_evaluation_langfuse_skills_split_latency_costs.ipynb) |
 
-### Chapter 4 — Context-Scoped Skill Compilation
+### Chapter 4 — Long-Running Skills, Registries, and Controlled Evolution
 | Notebook | Colab |
 |---|---|
 | Agent Skill Registries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/harness_engineering/blob/main/ch04/ch04_agent_skill_registries.ipynb) |
